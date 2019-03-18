@@ -1,2 +1,2 @@
 # Finance
-For educational purposes only. No information contained herein is to be considered financial advice.
+For educational purposes only. No information contained herein is financial advice.
